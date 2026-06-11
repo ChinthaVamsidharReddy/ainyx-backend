@@ -45,8 +45,8 @@ A RESTful API built with **Go + GoFiber + PostgreSQL + SQLC** that manages users
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/ChinthaVamsidharReddy/ainyx-backend
-cd ainyx-backend
+git clone https://github.com/ChinthaVamsidharReddy/ainyx-backend-task
+cd ainyx-backend-task
 
 # 2. Start Postgres + API in one command
 docker compose up --build
